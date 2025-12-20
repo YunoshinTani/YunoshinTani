@@ -26,5 +26,5 @@ jobs:
           git config user.name "YunoshinTani"
           git config user.email "taniyunoshin@gmail.com"
           git add -A
-          git commit -m "generated"
+          git commit -m "generated 3D contribution graph"
           git push
